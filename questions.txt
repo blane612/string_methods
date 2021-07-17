@@ -1,29 +1,29 @@
 1 - What function will convert the text to all uppercase letters.
-
+upper()
 
 2 - What function will convert the text to all lowercase letters.
-
+lower()
 
 3 - What function will find the first instance of a specific character.
-
+find()
 
 4 - What happens if the previous function can not find the character.
-
+It returns -1
 
 5 - What is an index?
-
+An index is a numerical representation of an item's position in a sequence.
 
 6 - What is a slice?
-
+A slice enables accessing sections of sequences like strings, lists, and etc.
 
 7 - How can we access a string to get a specific character?
-
+By using index operators and position
 
 8 - How can we slice a string to get a specific set characters?
-
+We use index operators and supply a start and stop to get specific characters.
 
 9 - Can you slice a string multiple times?
-
+Yes you can slice a string multiple times.
 
 10 - What happens if you supply position -1 when accessing a string?
-
+It would go to the last character.
