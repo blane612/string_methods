@@ -70,7 +70,7 @@ print('the position of u is: ', position_of_u)
 #           the position of the last letter, or atleast one off from it?
 text = input('Enter sentence here: ')
 print(text[0])
-print(text[1]), text[2], text[3])
+print(text[1], text[2], text[3])
 print(text[-1])
 print(text[len(text) - 1])
 
